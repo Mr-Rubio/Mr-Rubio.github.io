@@ -28,4 +28,4 @@
 
 ### 📫 Connect with Me
 
-- **Email**: 23307140010@fudan.edu.cn
+- **Email**: dreamerwang597@gmail.com
