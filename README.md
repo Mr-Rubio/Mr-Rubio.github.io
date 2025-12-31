@@ -28,4 +28,4 @@
 
 ### 📫 Connect with Me
 
-- **Email**: 23307140010@m.fudan.edu.cn
+- **Email**: 23307140010@fudan.edu.cn
