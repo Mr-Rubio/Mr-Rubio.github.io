@@ -23,11 +23,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-Rubio&show_icons=true&theme=dracula" alt="Stats" />
-</p>
 
 ---
 
