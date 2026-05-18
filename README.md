@@ -1,4 +1,4 @@
-# Hi there, I'm Hanchen Wang 👋
+# Hi there, I'm *** 👋
 
 ### 👨‍💻 About Me
 
@@ -28,4 +28,4 @@
 
 ### 📫 Connect with Me
 
-- **Email**: dreamerwang597@gmail.com
+- **Email**: **7@gmail.com
