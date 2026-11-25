@@ -24,8 +24,4 @@
 </p>
 
 
----
 
-### 📫 Connect with Me
-
-- **Email**: dreamerwang597@gmail.com
